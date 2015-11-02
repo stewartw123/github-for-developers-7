@@ -4,3 +4,4 @@
  - [ ] Hamilton, ON
  - [ ] Any animal
  - [ ] Videogames
+ - [ ] Blue
